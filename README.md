@@ -1,3 +1,7 @@
 # Proyecto de Laboratorio 2
 
-## Indice
+##Curso : Construccion y Pruebas de Software
+##Indicaciones : Proyecto con Maven
+
+##Ejecutar el comando :  mvn test
+
